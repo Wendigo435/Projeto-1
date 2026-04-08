@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuGame.unity
+    guid: 5b4f3b25275491645ab46f4b506fdb30
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerGame.unity
+    guid: 8d19fa11bb4a71b46a1c8e21072e39c4
+  - enabled: 0
+    path: Assets/Scenes/MultiGame.unity
+    guid: c77b988112ce77d4db560b6c532f640b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7f654cb85624f3249813af1ac0af7441, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: dbdf7f982655ec44199322d81cfffaa4, type: 3}
